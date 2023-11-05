@@ -8,6 +8,9 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Update attributes of an object
 * Destroy an object
 
+## Contributions
+* Make the AirBnB clone website dynamic
+
 ## Table of Content
 * [Environment](#environment)
 * [Installation](#installation)
@@ -158,6 +161,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Anthony Ndolo - [Github](https://github.com/Afpex)
+Caroline Moserega - [Github](https://github.com/carokil1)
 
 Second part of Airbnb: Joann Vuong
 ## License
